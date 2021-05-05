@@ -10,7 +10,7 @@ package jugadores.liga;
  */
 
 public enum Deportes {
-	FUTBOL, BALONCESTO, BALONMANO, TENIS, PETANCA, PADEL, CICLISMO;
+	FUTBOL, BALONCESTO, CICLISMO;
 
 
 
